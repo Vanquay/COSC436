@@ -1,3 +1,7 @@
+//Adebayo Abayomi
+//Nicholas Cheripko
+//Shantanu Biswas
+
 package printManager;
 
 //Printer class

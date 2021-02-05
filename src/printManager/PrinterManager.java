@@ -1,6 +1,6 @@
 //Adebayo Abayomi
 //Nicholas Cheripko
-//Shant Biswas
+//Shantanu Biswas
 
 package printManager;
 
