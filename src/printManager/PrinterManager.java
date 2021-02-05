@@ -1,5 +1,6 @@
 //Adebayo Abayomi
-//Collaborators: 
+//Nicholas Cheripko
+//Shant Biswas
 
 package printManager;
 
