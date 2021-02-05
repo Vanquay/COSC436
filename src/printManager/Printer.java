@@ -1,8 +1,9 @@
 package printManager;
 
-public class Printer
-{
-	boolean isBusy; // shows if the Printer is busy
+//Printer class
+public class Printer {
+
+	boolean isBusy; // shows if the printer is busy
 	String printJob; // store the printing job
 	
 	// constructor
@@ -34,4 +35,6 @@ public class Printer
 	public void setPrintJob(String printJob) {
 		this.printJob = printJob;
 	}
+	
+	
 }
